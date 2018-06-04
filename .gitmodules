@@ -1,0 +1,4 @@
+[submodule "vue"]
+	path = vue
+	url = https://github.com/vuejs/vue.git
+  ignore = dirty
